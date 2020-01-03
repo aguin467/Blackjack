@@ -31,7 +31,7 @@ code .
 - Install the open in html extension 
 
 
-![Image of extension](https://github.com/aguin467/Blackjack/tree/master/images)
+![Image of extension](https://github.com/aguin467/Blackjack/blob/master/images/openinhtml.png)
 
 
 <p>&nbsp;
