@@ -38,5 +38,5 @@ code .
   
 - Run the code
 ```
-Right click or ctrl + 1 to open in your web browser using the open in html extension from vscode
+Right click or ctrl + 1 to open in your web browser using the open in deafult browser extension from vscode
 ```
