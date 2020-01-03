@@ -31,7 +31,7 @@ code .
 - Install the open in html extension 
 
 ```
-
+![Image of Yaktocat](https://github.com/aguin467/Blackjack/blob/master/openinhtml.png)
 ```
 
 <p>&nbsp;
