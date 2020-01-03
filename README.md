@@ -28,7 +28,7 @@ code .
 
 <p>&nbsp;
  
-- Install the open in html extension 
+- Install the open in default browser extension
 
 
 ![Image of extension](https://github.com/aguin467/Blackjack/blob/master/images/openinhtml.png)
