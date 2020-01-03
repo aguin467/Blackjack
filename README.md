@@ -27,16 +27,16 @@ code .
 ```
 
 <p>&nbsp;
- 
-- Install the open in default browser extension
 
+## Run the Code
 
-![Image of extension](https://github.com/aguin467/Blackjack/blob/master/images/openinhtml.png)
-
-
-<p>&nbsp;
-  
-- Run the code
+- Install lite-server library for development
 ```
-Right click or ctrl + 1 to open in your web browser using the open in deafult browser extension from vscode
+npm install -g lite-server
+lite-server
 ```
+**OR**
+```
+npx lite-server
+```
+
