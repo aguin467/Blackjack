@@ -30,9 +30,9 @@ code .
  
 - Install the open in html extension 
 
-```
+
 ![Image of extension](https://aguin467/Blackjack/blob/master/openinhtml.png)
-```
+
 
 <p>&nbsp;
   
