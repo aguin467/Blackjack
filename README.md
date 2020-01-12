@@ -2,6 +2,8 @@
 
 A blackjack game written in Javascript :heart:
 
+Checkout Live Game [here](https://black-jack-game.now.sh/)!
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 - Install nodejs
