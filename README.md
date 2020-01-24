@@ -1,8 +1,8 @@
-# Blackjack
+# Blackjack ![Travis Status](https://travis-ci.org/aguin467/Blackjack.svg?branch=master)
 
 A blackjack game written in Javascript :heart:
 
-Checkout Live Game [here](https://black-jack-game.now.sh/)!
+Checkout Live Game [here](https://black-jack-game.now.sh/)!  
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
