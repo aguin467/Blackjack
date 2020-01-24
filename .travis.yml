@@ -1,0 +1,22 @@
+language: node_js
+
+node_js:
+  - "13.7.0"
+  
+os: 
+- linux
+
+env:
+  - ARCHITECTURE="$TRAVIS_OS_NAME"
+  
+before_script:
+  - npm i -g express-generator
+  
+install: 
+- npm i
+
+script:
+ - npm install --build-from-source
+ - cd $TRAVIS_BUILD_DIR
+
+ 
