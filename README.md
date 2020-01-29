@@ -1,4 +1,4 @@
-# Blackjack ![Travis Status](https://travis-ci.org/aguin467/Blackjack.svg?branch=master)
+# Blackjack  ![Node.js CI](https://github.com/aguin467/Blackjack/workflows/Node.js%20CI/badge.svg?branch=master) ![Travis Status](https://travis-ci.org/aguin467/Blackjack.svg?branch=master)
 
 A blackjack game written in Javascript :heart:
 
