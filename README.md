@@ -2,7 +2,7 @@
 
 A blackjack game written in Javascript :heart:
 
-Checkout The Live Game [here](https://black-jack-game.now.sh/)!  
+Checkout The Live Game [here](https://aguin467.io/)!  
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
